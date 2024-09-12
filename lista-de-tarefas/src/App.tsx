@@ -1,4 +1,3 @@
-import './App.css'
 import Formulario from './components/Tarefa' 
 function App() {
 
